@@ -85,6 +85,27 @@
   },
   {
     "id": 12,
+    "firstName": "Sero",
+    "lastName": "Hanta",
+    "background": "sero.png",
+    "quirk": "Tape"
+  },
+  {
+    "id": 13,
+    "firstName": "Mineta",
+    "lastName": "Minoru",
+    "background": "mineta.png",
+    "quirk": "Pop Off"
+  },
+  {
+    "id": 14,
+    "firstName": "Jiro",
+    "lastName": "Kyoka",
+    "background": "jiro.png",
+    "quirk": "Earphone Jack"
+  },
+  {
+    "id": 15,
     "firstName": "Uraraka",
     "lastName": "Ochako",
     "background": "ochako.png",
