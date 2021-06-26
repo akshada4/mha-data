@@ -110,5 +110,18 @@
     "lastName": "Ochako",
     "background": "ochako.png",
     "quirk": "Zero Gravity"
+  },
+  {
+    "firstName": "Asui",
+    "lastName": "Tsuyu",
+    "background": "asui.png",
+    "quirk": "Frog"
+  },
+  {
+    "id": 17,
+    "firstName": "Ashido",
+    "lastName": "Mina",
+    "background": "ashido.png",
+    "quirk": "Acid"
   }
 ]
