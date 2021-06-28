@@ -112,6 +112,7 @@
     "quirk": "Zero Gravity"
   },
   {
+    "id": 16,
     "firstName": "Asui",
     "lastName": "Tsuyu",
     "background": "asui.png",
@@ -123,5 +124,18 @@
     "lastName": "Mina",
     "background": "ashido.png",
     "quirk": "Acid"
-  }
-]
+  },
+  {
+    "id": 18,
+    "firstName": "Hagakure",
+    "lastName": "Toru",
+    "background": "toru.png",
+    "quirk": "Invisibilty"
+  },
+  {
+    "id": 19,
+    "firstName": "Yaoyorozu",
+    "lastName": "Momo",
+    "background": "momo.png",
+    "quirk": "Creation"
+  },]
