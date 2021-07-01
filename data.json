@@ -138,5 +138,19 @@
     "lastName": "Momo",
     "background": "momo.png",
     "quirk": "Creation"
+  },
+  {
+    "id": 20,
+    "firstName": "Awase",
+    "lastName": "Yosetsu",
+    "background": "awase.png",
+    "quirk": "Weld"
+  },
+  {
+    "id": 21,
+    "firstName": "Kaibara",
+    "lastName": "Sen",
+    "background": "kaibara.png",
+    "quirk": "Gyrate"
   }
 ]
